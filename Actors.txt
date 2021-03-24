@@ -1,0 +1,33 @@
+Morgan Freeman, 20
+Leonardo DiCaprio, 20
+Robert De Niro, 20
+Brad Pitt, 18
+Michael Caine, 18
+Matt Damon, 18
+Tom Hanks, 16
+Christian Bale, 16
+Al Pacino, 16
+Harrison Ford, 15
+Johnny Depp, 15
+Bruce Willis, 14
+Kevin Spacey, 14
+Jack Nicholson, 14
+Samuel L. Jackson, 14
+Robert Duvall, 13
+Tom Hardy, 13
+Steve Buscemi, 10
+George Clooney, 10
+Mark Ruffalo, 6
+Liam Neeson, 6
+Tom Cruise, 6
+Hugo Weaving, 4
+Jake Gyllenhaal, 4
+Russell Crowe, 4
+Clint Eastwood, 3
+Ryan Gosling, 3
+Woody Harrelson, 3
+Bradley Cooper, 2
+Denzel Washington, 2
+Joaquin Phoenix, 1 
+Ben Affleck, 1
+Matthew McConaughey, 1
